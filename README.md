@@ -14,3 +14,6 @@
 &#160; ![MONGODB](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 &#160; ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 &#160; ![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+<!-- icons skill developer -->
+<!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
